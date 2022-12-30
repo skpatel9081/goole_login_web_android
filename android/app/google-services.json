@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "802131498495",
+    "project_id": "my-flutter-web-a5f3f",
+    "storage_bucket": "my-flutter-web-a5f3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802131498495:android:a4bfc4d113c0c4127ac3ca",
+        "android_client_info": {
+          "package_name": "com.example.userlogin_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802131498495-elpuhs21ni2sitv4ofudld9pve6c9tt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcQLDct_NJweJ4RMTHKlvji_hl11u8U4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802131498495-elpuhs21ni2sitv4ofudld9pve6c9tt1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "802131498495-ujal2am5ann42rbq27ou4o0aias93k0d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.userloginWeb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
